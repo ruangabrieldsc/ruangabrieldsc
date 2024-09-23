@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Ruan! 👋
+
+💻 System development student sharing about my journey and learnings<br/>
+📖 Currently studying at Pontifícia Universidade Católica do Paraná, Brazil<br/>
+
+
+[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruangabrieldsc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ruangabrieldsc/ruangabrieldsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
