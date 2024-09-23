@@ -1,22 +1,19 @@
 ## Hi there, I'm Ruan! 👋
 
-💻 System development student sharing about my journey and learnings<br/>
-📖 Currently studying at Pontifícia Universidade Católica do Paraná, Brazil<br/>
+💻 System development student sharing about my journey and learnings<br>
+📖 Currently studying at Pontifícia Universidade Católica do Paraná, Brazil
 
 
-[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruangabrieldsc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-cunha-9910862b5/) 
 
-<!--
-**ruangabrieldsc/ruangabrieldsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruangabrieldsc&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=ruangabrieldsc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
